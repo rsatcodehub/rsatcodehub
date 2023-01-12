@@ -6,15 +6,15 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...Azure
-- 🌱 I’m currently learning ...Bicep
+- 🌱 I’m currently learning ...Bicep...lots of Azure Web App...Docker...AKS
 - 👯 I’m looking to collaborate on ...Open Source Projects
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with ...golang.
 - 💬 Ask me about ...Azure, AKS, Bicep
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: ...Pray! 
+-->#https://media.giphy.com/media/ZeFG00TVXs54Pw4c8e/giphy.gi
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/ZeFG00TVXs54Pw4c8e/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/BZiSujsOExqpTJwd0C/giphy.gif"/>
 </div>
+
+
