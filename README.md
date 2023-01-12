@@ -20,5 +20,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/BZiSujsOExqpTJwd0C/giphy.gif"/>
 </div>
 
+---
+### 🔥: My Stats: [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rsatcodehub&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=)](https://git.io/streak-stats)
+
